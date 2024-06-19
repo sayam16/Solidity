@@ -13,6 +13,6 @@ This project includes a custom-built token with the following functionalities:
 - Download the contract file on your system
 ## Executing the Program
 - Upload it on Remix IDE, Compile and Deploy it from there.
-##*Creator*
+## Creator
 Sayam Mattoo
 sayam.mattoo123@gmail.com
